@@ -1,5 +1,5 @@
 # Ex04 Simple Calculator - React Project
-## Date:22.06.2025
+## Date:17.09.2025
 
 
 ## AIM
